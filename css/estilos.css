@@ -2,7 +2,11 @@ body
 {
     color: red;
     text-align: center;
+<<<<<<< HEAD
     font-family: Arial, Helvetica, sans-serif;
+=======
+    font-family: Arial;
+>>>>>>> 2a99309 (Finalizada la cabecera con diseno azul)
     font-size: 16px;
     margin: 0;
     padding: 0;
